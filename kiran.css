@@ -1,0 +1,52 @@
+h1{
+  font-size: 50px;
+  text-align: center;
+}
+a{
+  text-decoration: none;
+
+  color:#121013;
+  border-radius: 3px;
+  text-align:right;
+  font-size:25px;
+  padding: auto;
+
+}
+a:hover{
+  text-decoration:none;
+  background-color:#1687a7;
+  color:#23120b;
+ font-size: 30px;
+  text-align: center;
+  text-decoration:underline;
+
+  padding: auto;
+
+}
+body{
+  background-image: radial-gradient(#f4f9f9,#ccf2f4,#a4ebf3);
+
+}
+#home{
+  column-count:2;
+}
+#branchlist{
+  align-items:center;
+  column-count:2;
+}
+#homeheading{
+  margin-bottom: 250px;
+  margin-left: auto;
+  margin-right:auto;
+  margin-top: auto;
+
+}
+#clg-name{
+  padding:50px 0 0 0 ;
+}
+#logo{
+  margin-left: auto;
+  margin-right: auto;
+  display:block;
+
+}
