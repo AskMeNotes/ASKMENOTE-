@@ -1,0 +1,41 @@
+h1{
+  font-size: 60px;
+  font-style: italic;
+  padding-left: 250px;
+}
+h2{
+  font-size: 30px;
+  font-style: cursive;
+  padding-left: 180px;
+}
+body{
+  background-image: url("CseBackground.JPG");
+  filter: grayscale(100%);
+}
+div{
+  font-size: 25px;
+  font-family: cursive;
+  padding-left: 180px;
+}
+.parallelograam{
+  transform: skew(-25deg);
+}
+.parallelograam:hover {background-color: #3e8e41}
+
+.parallelograam:active {
+  background-color: #3e8e41;
+  box-shadow: 0 5px #666;
+  transform: translateY(4px);
+}
+.skew-fix{
+  display:inline-block;
+  transform: skew(15deg);}
+
+  .parallelograam {
+    background:yellow;
+    box-shadow:8px 5px 0 rgba(2,3,0,.5);
+    display:inline-block;
+    font-size:2em;
+    padding:.2em 2em;
+    text-decoration:none;
+  }
