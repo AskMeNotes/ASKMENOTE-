@@ -34,6 +34,7 @@ body{
 }
 #branchlist{
     margin: auto;
+  width: auto;
 }
 #homeheading{
   margin-bottom: 250px;
