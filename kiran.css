@@ -64,8 +64,8 @@ a:hover{
   padding-left: 20px;
   text-align: center;
   background-image: radial-gradient(#f4f9f9,#ccf2f4,#a4ebf3);
-  height: 5000px;;
-
+    height:inherit;
+  width:inherit;
 }
 #top{
   background-color: #0f1123;
