@@ -25,6 +25,10 @@ a:hover{
   padding: auto;
 
 }
+#body{
+  background-image: radial-gradient(#f4f9f9,#ccf2f4,#a4ebf3);
+}
+
 
 
 
@@ -74,3 +78,4 @@ a:hover{
   align-items: center;
   margin-left: 700px;
 }
+
