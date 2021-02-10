@@ -72,8 +72,8 @@ p{
   padding-left: 20px;
   text-align: center;
   background-image: radial-gradient(#f4f9f9,#ccf2f4,#a4ebf3);
-  height:inherit;
-  width:inherit;
+  height:100%;
+  width:100%;
 
 
 }
