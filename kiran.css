@@ -33,9 +33,7 @@ body{
   column-count:2;
 }
 #branchlist{
-  align-items:center;
-
-  text-align: center;
+    margin: auto;
 }
 #homeheading{
   margin-bottom: 250px;
