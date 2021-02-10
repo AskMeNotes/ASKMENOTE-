@@ -1,0 +1,14 @@
+body{
+background-image:url("Homepage.jpg");
+}
+h1{
+   font-size: 45px;
+   font-family: sans-serif ;
+   padding-left: 150px;
+}
+div{
+  font-size: 35px;
+  font-family: cursive;
+  padding-left: 100px
+
+}
