@@ -33,9 +33,9 @@ div{
 
   .parallelograam {
     background:yellow;
-    box-shadow:8px 5px 0 rgba(2,3,0,.5);
+    box-shadow:8px 5px 0 rgba(0,0,0,.5);
     display:inline-block;
     font-size:2em;
-    padding:.2em 2em;
+    padding:.5em 2em;
     text-decoration:none;
   }
