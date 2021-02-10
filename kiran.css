@@ -10,6 +10,7 @@ a{
   text-align:right;
   font-size:25px;
   padding: auto;
+  margi-left:35px;
 
 }
 a:hover{
@@ -37,7 +38,7 @@ body{
   column-count:2;
 }
 #homeheading{
-  margin-bottom: 250px;
+  margin-bottom: 350px;
   margin-left: auto;
   margin-right:auto;
   margin-top: auto;
